@@ -94,4 +94,4 @@ Or open [`Generative_Modelling.ipynb`](Generative_Modelling.ipynb) for the full 
 
 ---
 
-*Author: [your name here]*
+*Author: Swayam Verma*
