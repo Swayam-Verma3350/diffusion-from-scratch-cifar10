@@ -1,7 +1,9 @@
 # Experimental Report: Fine-Tuning DDPM on CIFAR-10
 
-**Author:** [your name here]
+**Author:** Swayam Verma
+
 **Model family:** Diffusion Models (DDPM / DDIM)
+
 **Dataset:** CIFAR-10
 
 ---
